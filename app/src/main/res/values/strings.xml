@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tracker</string>
+    <string name="permission_request">Location Permissions Required</string>
+</resources>
